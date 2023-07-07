@@ -1,0 +1,7 @@
+date:1
+time:1
+stuid:1
+stuname:zhangsan
+roomid:1
+status:2
+
